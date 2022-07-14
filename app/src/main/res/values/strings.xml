@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">examenModuloCuatro</string>
+    <string name="CreateAcount">Create Acount</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="SignIn">Sign in</string>
+    <string name="Back">Back</string>
+    <string name="End">End session</string>
+    <string name="Welcome">Welcome VPN HUB</string>
+    <string name="Welcome2">A new user just signed up and a hearty handshake isn´t possible, so now what?</string>
+    <string name="CreateAnAcount">Create An Acount</string>
+    <string name="AlreadyHaveAAready">Already have a already</string>
+    <string name="CreateAnAccountToEnjoyAllTheServicesWithOutAnyAdsForFree">Create an account to enjoy all the services with out any ads for free</string>
+</resources>
